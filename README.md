@@ -1,2 +1,2 @@
-# Assignments
+# IM Assignments
 Assignment Files
